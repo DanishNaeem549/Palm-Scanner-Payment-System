@@ -79,19 +79,19 @@ Secure bank APIs
 Transaction logs
 Advantages
 
-✅ No need for cards or cash
-✅ Fast payments (2–3 seconds)
-✅ Difficult to steal biometric data
-✅ Convenient user experience
-✅ Contactless payment
+ No need for cards or cash
+ Fast payments (2–3 seconds)
+ Difficult to steal biometric data
+ Convenient user experience
+ Contactless payment
 
 Challenges
 
-❌ Privacy concerns
-❌ Expensive hardware
-❌ Integration with banks
-❌ Compliance with financial regulations
-❌ False acceptance/rejection rates
+ Privacy concerns
+ Expensive hardware
+ Integration with banks
+ Compliance with financial regulations
+ False acceptance/rejection rates
 
 Real-World Examples
 
